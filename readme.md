@@ -7,4 +7,4 @@ You should really check out my [website](https://www.zawadzki.cc)
 I will mostly put [EXILED](https://github.com/ExMod-Team/EXILED) plugins here sometimes.
 I tend to use my own git server nowadays.
 
-![Button](https://www.zawadzki.cc/assets/button.bmp)
+![Banner](https://www.zawadzki.cc/assets/banner2.bmp)
